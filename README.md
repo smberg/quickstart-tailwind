@@ -5,11 +5,11 @@ Start your tailwind project using parcel with zero configuration
 For development
 
 ```bash
-npm start
+npm run start
 ```
 
 For production
 
 ```bash
-npm build
+npm run build
 ```
