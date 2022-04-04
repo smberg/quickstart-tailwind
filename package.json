@@ -6,6 +6,7 @@
     "build": "parcel build"
   },
   "devDependencies": {
+    "@fet.web/parcel-namer-simple-structure": "^1.0.1",
     "parcel": "^2.4.1",
     "postcss": "^8.4.12",
     "tailwindcss": "^3.0.23"

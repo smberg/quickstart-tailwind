@@ -1,0 +1,7 @@
+{
+  "extends": "@parcel/config-default",
+  "namers": [
+    "@fet.web/parcel-namer-simple-structure",
+    "..."
+  ]
+}
